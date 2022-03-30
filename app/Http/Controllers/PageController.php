@@ -7,6 +7,6 @@ use Illuminate\Http\Request;
 class PageController extends Controller
 {
     public function home(){
-        return view('layouts.master');
+        return view('home', ['title'=> 'Warung Kopi Klotok']);
     }
 }
