@@ -18,3 +18,6 @@ Route::get('/', function () {
     return view('welcome');
 });
 Route::get('/home',[PageController::class,'home']);
+Route::get('/menu',[PageController::class,'menu']);
+Route::get('/tempat',[PageController::class,'tempat']);
+Route::get('/order',[PageController::class,'order']);
