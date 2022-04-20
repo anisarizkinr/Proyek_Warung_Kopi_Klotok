@@ -3,6 +3,8 @@
 @section('content')
 
 <!-- <section> begin ============================-->
+
+
 <section class="py-0">
 
 <div class="container">
@@ -15,9 +17,7 @@
             <div class="col-md-7 col-xl-5 col-xxl-4 p-4 p-lg-5">
               <h1 class="card-title mt-xl-5 mb-4">Celebrate parties with <span class="text-primary">Kopi Klotok</span></h1>
               <p class="fs-1">Anda dapat memilih tempat sesuai kebutuhan </p>
-              
-
-              
+        
               
             </div>
 
@@ -29,11 +29,9 @@
         </div>
           
 
-      </div>
+      </div>  
 
 
-      
-  
      <div class="card-body py-0">
           <div class="row justify-content-center" > 
             <div class="col-md-5 col-xl-7 col-xxl-8 g-0 order-md-0"><img class="img-fluid w-100 fit-cover h-100 rounded-top rounded-md-start rounded-md-top-0" src="assets/img/gallery/tempat2.jpg" alt="..." /></div>
